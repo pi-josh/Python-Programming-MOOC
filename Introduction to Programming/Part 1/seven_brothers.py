@@ -1,5 +1,7 @@
-# Fix the code
 """
+Programming exercise:
+Fix the code: Seven Brothers
+
 This program is supposed to print out the names of the brothers in
 alphabetical order, but it's not working quite right yet. Please fix
 the program so that the names are printed in the correct order.

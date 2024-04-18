@@ -1,4 +1,7 @@
 """
+Programming exercise:
+Row, Row, Row Your Boat
+
 Please write a program which prints out the following lines exactly
 as they are written here, punctuation and all:
 
