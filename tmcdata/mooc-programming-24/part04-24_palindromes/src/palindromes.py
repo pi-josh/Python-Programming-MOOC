@@ -2,3 +2,22 @@
 # Note, that at this time the main program should not be written inside
 # if __name__ == "__main__":
 # block!
+
+def palindromes(string: str) -> bool:
+    reversed_string = list(reversed(string))
+    for i in range(len(string)):
+        if string[i] != reversed_string[i]:
+            return False
+    return True
+
+def main():
+    while True:
+        string = input("Please type in a palindrome: ")
+        
+        if palindromes(string):
+            break
+        else:
+            print("that wasn't a palindrome")
+    print(f"{string} is a palindrome!")
+    
+main()
