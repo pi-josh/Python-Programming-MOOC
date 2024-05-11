@@ -4,11 +4,10 @@
 # block!
 
 def palindromes(string: str) -> bool:
-    reversed_string = list(reversed(string))
-    for i in range(len(string)):
-        if string[i] != reversed_string[i]:
-            return False
-    return True
+    reversed_string = string[::-1]
+    if string == reversed_string:
+        return True
+    return False
 
 def main():
     while True:
