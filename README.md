@@ -23,9 +23,9 @@ For more information and access to the course materials, please visit the [Pytho
 # Introduction to Programming
 
 
-# Part 1:
+## Part 1:
 
-## Getting Started
+### Getting Started
 
 1. **Emoticon**
 2. **Fix the code: Seven Brothers**
@@ -33,7 +33,7 @@ For more information and access to the course materials, please visit the [Pytho
 4. **Minutes in a Year**
 5. **Print Some Code**
 
-## Information from the User
+### Information from the User
 
 1. **Name Twice**
 2. **Name and Exclamation Marks**
@@ -41,7 +41,7 @@ For more information and access to the course materials, please visit the [Pytho
 4. **Fix the Code: Utterances**
 5. **Story**
 
-## More About Variables
+### More About Variables
 
 1. **Quiz: Background Information**
 2. **Extra Space**
@@ -49,22 +49,22 @@ For more information and access to the course materials, please visit the [Pytho
 4. **Fix the Code: Print a Single Line**
 
 
-# Part 2:
+## Part 2:
 
-## Programming Terminology
+### Programming Terminology
 
 1. **Fix the Syntax**
 2. **Number of Characters**
 3. **Typecasting**
    
-## More Conditionals
+### More Conditionals
 
 1. **Age of Maturity**
 2. **Greater than or Equal to**
 3. **The Elder**
 4. **Alphabetically Last**
    
-## Combining Conditions
+### Combining Conditions
 
 1. **Age Check**
 2. **Nephews**
@@ -74,7 +74,7 @@ For more information and access to the course materials, please visit the [Pytho
 6. **Alphabetically in the Middle**
 7. **Gift Tax Calculator**
 
-## Simple Loops
+### Simple Loops
 
 1. **Shall We Continue?**
 2. **Input Validation**
@@ -86,9 +86,9 @@ For more information and access to the course materials, please visit the [Pytho
 8. **Working with Numbers**
 
    
-# Part 3
+## Part 3
 
-## Loops with Conditions
+### Loops with Conditions
 
 1. **Print Numbers**
 2. **Fix the Code: Countdown**
@@ -98,7 +98,7 @@ For more information and access to the course materials, please visit the [Pytho
 6. **The Sum of Consecutive Numbers, Version 1**
 7. **The Sum of Consecutive Numbers, Version 2**
 
-## Working with Strings
+### Working with Strings
 
 1. **String Multiplied**
 2. **The Longer String**
@@ -116,7 +116,7 @@ For more information and access to the course materials, please visit the [Pytho
 14. **Find All the Substrings**
 15. **The Second Occurrence**
 
-## More Loops
+### More Loops
 
 1. **Multiplication**
 2. **First Letters of Words**
@@ -124,7 +124,7 @@ For more information and access to the course materials, please visit the [Pytho
 4. **Flip the Pairs**
 5. **Taking Turns**
 
-## Defining Functions
+### Defining Functions
 
 1. **Seven Brothers**
 2. **The First Character**
@@ -135,13 +135,13 @@ For more information and access to the course materials, please visit the [Pytho
 7. **A Word Squared**
 
 
-# Part 4
+## Part 4
 
-## The Visual Studio Code Editor, Python Interpreter, and Built-in Debugging Tool
+### The Visual Studio Code Editor, Python Interpreter, and Built-in Debugging Tool
 
 1. **Hello Visual Studio Code**
 
-## More Functions
+### More Functions
 
 1. **Line**
 2. **A Box of Hashes**
@@ -154,7 +154,7 @@ For more information and access to the course materials, please visit the [Pytho
 9. **Same Characters**
 10. **First, Second, and Last Words**
 
-## Lists
+### Lists
 
 1. **Change the Value of an Item**
 2. **Add Items to a List**
@@ -165,7 +165,7 @@ For more information and access to the course materials, please visit the [Pytho
 7. **Arithmetic Mean**
 8. **The Range of a List**
 
-## Definite Iteration
+### Definite Iteration
 
 1. **Star-Studded**
 2. **From Negative to Positive**
@@ -180,11 +180,11 @@ For more information and access to the course materials, please visit the [Pytho
 11. **The Shortest in the List**
 12. **All the Longest in the List**
 
-## Print Statement Formatting
+### Print Statement Formatting
 
 1. **Integers to Strings**
 
-## More Strings and Lists
+### More Strings and Lists
 
 1. **Everything Reversed**
 2. **Most Common Character**
@@ -194,9 +194,9 @@ For more information and access to the course materials, please visit the [Pytho
 6. **Grade Statistics**
 
 
-# Part 5
+## Part 5
 
-## More Lists
+### More Lists
 
 1. **The Longest String**
 2. **Number of Matching Elements**
@@ -206,7 +206,7 @@ For more information and access to the course materials, please visit the [Pytho
 6. **Sudoku: Check Block**
 7. **Sudoku: Check Grid**
 
-## References
+### References
 
 1. **Items Multiplied by Two**
 2. **Remove the Smallest**
@@ -215,7 +215,7 @@ For more information and access to the course materials, please visit the [Pytho
 5. **Tic-Tac-Toe**
 6. **Transpose a Matrix**
 
-## Dictionary
+### Dictionary
 
 1. **Times Ten**
 2. **Factorials**
@@ -227,7 +227,7 @@ For more information and access to the course materials, please visit the [Pytho
 8. **Movie Database**
 9. **Find Movies**
 
-## Tuple
+### Tuple
 
 1. **Create a Tuple**
 2. **The Oldest Person**
@@ -236,9 +236,9 @@ For more information and access to the course materials, please visit the [Pytho
 5. **A Square of Letters**
 
 
-# Part 6
+## Part 6
 
-## Reading Files
+### Reading Files
 
 1. **Largest Number**
 2. **Fruit Market**
@@ -250,7 +250,7 @@ For more information and access to the course materials, please visit the [Pytho
 8. **Recipe Search**
 9. **City Bikes**
 
-## Writing Files
+### Writing Files
 
 1. **Inscription**
 2. **Diary**
@@ -260,22 +260,22 @@ For more information and access to the course materials, please visit the [Pytho
 6. **Word Search**
 7. **Dictionary Stored in a File**
 
-## Handling Errors
+### Handling Errors
 
 1. **Reading Input**
 2. **Parameter Validation**
 3. **Incorrect Lottery Numbers**
 
    
-# Part 7
+## Part 7
 
-## Modules
+### Modules
 
 1. **Hypotenuse**
 2. **Special Characters**
 3. **Fractions**
 
-## Randomness
+### Randomness
 
 1. **Lottery Numbers**
 2. **Password Generator, Part 1**
@@ -283,13 +283,13 @@ For more information and access to the course materials, please visit the [Pytho
 4. **Dice Roller**
 5. **Random Words**
 
-## Times and Dates
+### Times and Dates
 
 1. **How Old**
 2. **Valid PIC?**
 3. **Screen Time**
 
-## Data Processing
+### Data Processing
 
 1. **Handling JSON Files**
 2. **Course Statistics**
@@ -297,11 +297,11 @@ For more information and access to the course materials, please visit the [Pytho
 4. **Who Cheated, Version 2**
 5. **Spell Checker, Version 2**
 
-## Creating Your Own Modules
+### Creating Your Own Modules
 
 1. **String Helper**
 
-## More Python Features
+### More Python Features
 
 1. **Your Own Programming Language**
 
