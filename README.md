@@ -192,8 +192,117 @@ For more information and access to the course materials, please visit the [Pytho
 5. **Neighbours in a List**
 6. **Grade Statistics**
 
-## Quiz: Feedback, Part 4
-   - Feedback quiz related to Part 4.
+
+# Part 5
+
+## More Lists
+
+1. **The Longest String**
+2. **Number of Matching Elements**
+3. **Go**
+4. **Sudoku: Check Row**
+5. **Sudoku: Check Column**
+6. **Sudoku: Check Block**
+7. **Sudoku: Check Grid**
+
+## References
+
+1. **Items Multiplied by Two**
+2. **Remove the Smallest**
+3. **Sudoku: Print Out the Grid and Add a Number**
+4. **Sudoku: Add Number to a Copy of the Grid**
+5. **Tic-Tac-Toe**
+6. **Transpose a Matrix**
+
+## Dictionary
+
+1. **Times Ten**
+2. **Factorials**
+3. **Histogram**
+4. **Phone Book, Version 1**
+5. **Phone Book, Version 2**
+6. **Invert a Dictionary**
+7. **Numbers Spelled Out**
+8. **Movie Database**
+9. **Find Movies**
+
+## Tuple
+
+1. **Create a Tuple**
+2. **The Oldest Person**
+3. **Older People**
+4. **Student Database**
+5. **A Square of Letters**
+
+
+# Part 6
+
+## Reading Files
+
+1. **Largest Number**
+2. **Fruit Market**
+3. **Matrix**
+4. **Course Grading, Part 1**
+5. **Course Grading, Part 2**
+6. **Course Grading, Part 3**
+7. **Spell Checker**
+8. **Recipe Search**
+9. **City Bikes**
+
+## Writing Files
+
+1. **Inscription**
+2. **Diary**
+3. **Filtering the Contents of a File**
+4. **Store Personal Data**
+5. **Course Grading, Part 4**
+6. **Word Search**
+7. **Dictionary Stored in a File**
+
+## Handling Errors
+
+1. **Reading Input**
+2. **Parameter Validation**
+3. **Incorrect Lottery Numbers**
+
+   
+# Part 7
+
+## Modules
+
+1. **Hypotenuse**
+2. **Special Characters**
+3. **Fractions**
+
+## Randomness
+
+1. **Lottery Numbers**
+2. **Password Generator, Part 1**
+3. **Password Generator, Part 2**
+4. **Dice Roller**
+5. **Random Words**
+
+## Times and Dates
+
+1. **How Old**
+2. **Valid PIC?**
+3. **Screen Time**
+
+## Data Processing
+
+1. **Handling JSON Files**
+2. **Course Statistics**
+3. **Who Cheated**
+4. **Who Cheated, Version 2**
+5. **Spell Checker, Version 2**
+
+## Creating Your Own Modules
+
+1. **String Helper**
+
+## More Python Features
+
+1. **Your Own Programming Language**
 
 ---
 
