@@ -22,11 +22,10 @@ def convert_to_uppercase(word):
     return word.upper()
 
 
-if __name__ == "__main__":
-    word_list = ['apple', 'banana', 'kiwi']
-    transformed_words = conditional_convert(word_list, convert_to_uppercase, contains_letter_a)
-    print(transformed_words)
+word_list = ['apple', 'banana', 'kiwi']
+transformed_words = conditional_convert(word_list, convert_to_uppercase, contains_letter_a)
+print(transformed_words)
 
-    word_list = ['apple', 'banana', 'kiwi']
-    transformed_words = conditional_convert(word_list, convert_to_uppercase)
-    print(transformed_words)
+word_list = ['apple', 'banana', 'kiwi']
+transformed_words = conditional_convert(word_list, convert_to_uppercase)
+print(transformed_words)

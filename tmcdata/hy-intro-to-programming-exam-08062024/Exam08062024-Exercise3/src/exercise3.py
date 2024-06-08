@@ -30,32 +30,31 @@ def convert_to_fraction(fraction: str):
     return Fraction(numerator, denominator)
 
 
-if __name__ == "__main__":
-    fraction = "1/2"
-    fraction2 = "15/375"
-    fraction_object = convert_to_fraction(fraction2)
-    print(convert_to_fraction(fraction))
-    print(type(fraction_object))
-    print(fraction_object)
-    
-    calculation1 = "1/2 + 3/4"
-    calculation2 = "1/2 - 1/3"
-    calculation3 = "-1/2 * 1/4"
-    to_be_reduced = "15/375"
+fraction = "1/2"
+fraction2 = "15/375"
+fraction_object = convert_to_fraction(fraction2)
+print(convert_to_fraction(fraction))
+print(type(fraction_object))
+print(fraction_object)
 
-    result_of_addition = fraction_calculator(calculation1)
-    result_of_subtraction = fraction_calculator(calculation2)
-    result_of_multiplication = fraction_calculator(calculation3)
-    reduced = fraction_calculator(to_be_reduced)
+calculation1 = "1/2 + 3/4"
+calculation2 = "1/2 - 1/3"
+calculation3 = "-1/2 * 1/4"
+to_be_reduced = "15/375"
 
-    print(type(to_be_reduced))
-    print(type(reduced))
+result_of_addition = fraction_calculator(calculation1)
+result_of_subtraction = fraction_calculator(calculation2)
+result_of_multiplication = fraction_calculator(calculation3)
+reduced = fraction_calculator(to_be_reduced)
 
-    print(f'the sum of {calculation1} is', result_of_addition)
-    print(f'the difference of {calculation2} is', result_of_subtraction)
-    print(f'the product of {calculation3} is', result_of_multiplication)
-    print(f'fraction {to_be_reduced} in reduced form is', reduced)
+print(type(to_be_reduced))
+print(type(reduced))
 
-    # We'll calculate (1/2 + 3/4) * (1/2 - 1/3) using the results of the previous calculations
-    calculation4 = f"{result_of_addition} * {result_of_subtraction}"
-    print(fraction_calculator(calculation4))
+print(f'the sum of {calculation1} is', result_of_addition)
+print(f'the difference of {calculation2} is', result_of_subtraction)
+print(f'the product of {calculation3} is', result_of_multiplication)
+print(f'fraction {to_be_reduced} in reduced form is', reduced)
+
+# We'll calculate (1/2 + 3/4) * (1/2 - 1/3) using the results of the previous calculations
+calculation4 = f"{result_of_addition} * {result_of_subtraction}"
+print(fraction_calculator(calculation4))
