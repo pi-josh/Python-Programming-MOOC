@@ -330,4 +330,4 @@ We welcome contributions to improve this compilation of programming exercises!
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/pi-josh/Python-Programming-MOOC.git
-   cd python-programming-mooc-2024
+   cd Python-Programming-MOOC
