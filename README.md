@@ -22,6 +22,7 @@ For more information and access to the course materials, please visit the [Pytho
 
 ## Introduction to Programming
 
+
 # Part 1:
 
 ## Getting Started
@@ -133,12 +134,12 @@ For more information and access to the course materials, please visit the [Pytho
 6. **Chessboard**
 7. **A Word Squared**
 
+
 # Part 4
 
 ## The Visual Studio Code Editor, Python Interpreter, and Built-in Debugging Tool
 
 1. **Hello Visual Studio Code**
-   - Programming exercise related to using Visual Studio Code.
 
 ## More Functions
 
@@ -307,101 +308,7 @@ For more information and access to the course materials, please visit the [Pytho
 ---
 
 ## Advanced Course in Programming
-
-### Part 8: Objects and Methods
-1. **Programming exercises**:
-   - The smallest average result
-   - Row sums
-   - List of years
-   - Shopping list
-   - Book
-   - Three classes
-   - Define class: Pet
-   - The older book
-   - Books of a genre
-   - Decreasing counter
-   - First and last name
-   - Statistics on numbers
-   - Stopwatch
-   - Clock
-   - LunchCard
-   - Series
-
-### Part 9: Objects and References
-1. **Programming exercises**:
-   - The fastest car
-   - Passing submissions
-   - Baby Centre
-   - LunchCard and PaymentTerminal
-   - Comparing properties
-
-### Part 10: Class Hierarchies
-1. **Programming exercises**:
-   - Laptop computer
-   - Game Museum
-   - Areas
-   - Word game
-   - Supergroup
-   - Secret magic potion
-
-### Part 11: List Comprehensions and Recursion
-1. **Programming exercises**:
-   - Square roots
-   - Rows of stars
-   - Best exam result
-   - Lengths
-   - Remove smaller than
-   - Begin with a vowel
-   - Lottery numbers
-   - Filter forbidden
-   - Products in shopping list
-   - Price difference of cheaper properties
-   - Lengths of strings
-   - Most common words
-   - Add numbers to a list
-   - Recursive sum
-   - Balance all the brackets
-   - Greatest node
-   - Bosses and subordinates
-   - OrderBook
-
-### Part 12: Functions as Arguments and Generators
-1. **Programming exercises**:
-   - Sort by remaining stock
-   - Sort by number of seasons
-   - Sort by ratings
-   - ClimbingRoute
-   - Climbing areas
-   - BallPlayers
-   - Product search
-   - Even numbers
-   - Prime numbers
-   - Random words
-
-### Part 13: Pygame
-1. **Programming exercises**:
-   - Four robots
-   - Robots in a row
-   - A hundred robots
-   - Random robots
-   - Vertical movement
-   - Round the perimeter
-   - Two robots
-   - Robots in a circle
-   - Bouncing ball
-   - Robot invasion
-   - Four directions
-   - Four walls
-   - Two players
-   - Robot and mouse
-   - The location of the robot
-   - Clock
-   - Asteroids
-
-### Part 14: Your Own Game
-1. **Quizzes**:
-   - Own game
-   - Final quiz, Advanced Course
+none yet
 
 ---
 
