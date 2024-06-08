@@ -20,7 +20,7 @@ For more information and access to the course materials, please visit the [Pytho
 
 ---
 
-## Introduction to Programming
+# Introduction to Programming
 
 
 # Part 1:
@@ -307,7 +307,7 @@ For more information and access to the course materials, please visit the [Pytho
 
 ---
 
-## Advanced Course in Programming
+# Advanced Course in Programming
 none yet
 
 ---
