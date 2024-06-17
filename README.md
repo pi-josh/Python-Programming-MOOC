@@ -22,8 +22,8 @@ For more information and access to the course materials, please visit the [Pytho
 
 # Introduction to Programming
 
-
-## Part 1:
+<details>
+<summary>Part 1</summary>
 
 ### Getting Started
 
@@ -48,8 +48,10 @@ For more information and access to the course materials, please visit the [Pytho
 3. **Arithmetics**
 4. **Fix the Code: Print a Single Line**
 
+</details>
 
-## Part 2:
+<details>
+<summary>Part 2</summary>
 
 ### Programming Terminology
 
@@ -85,8 +87,10 @@ For more information and access to the course materials, please visit the [Pytho
 7. **Story**
 8. **Working with Numbers**
 
-   
-## Part 3
+</details>
+
+<details>
+<summary>Part 3</summary>
 
 ### Loops with Conditions
 
@@ -134,8 +138,10 @@ For more information and access to the course materials, please visit the [Pytho
 6. **Chessboard**
 7. **A Word Squared**
 
+</details>
 
-## Part 4
+<details>
+<summary>Part 4</summary>
 
 ### The Visual Studio Code Editor, Python Interpreter, and Built-in Debugging Tool
 
@@ -193,8 +199,10 @@ For more information and access to the course materials, please visit the [Pytho
 5. **Neighbours in a List**
 6. **Grade Statistics**
 
+</details>
 
-## Part 5
+<details>
+<summary>Part 5</summary>
 
 ### More Lists
 
@@ -235,8 +243,10 @@ For more information and access to the course materials, please visit the [Pytho
 4. **Student Database**
 5. **A Square of Letters**
 
+</details>
 
-## Part 6
+<details>
+<summary>Part 6</summary>
 
 ### Reading Files
 
@@ -266,8 +276,10 @@ For more information and access to the course materials, please visit the [Pytho
 2. **Parameter Validation**
 3. **Incorrect Lottery Numbers**
 
-   
-## Part 7
+</details>
+
+<details>
+<summary>Part 7</summary>
 
 ### Modules
 
@@ -304,6 +316,8 @@ For more information and access to the course materials, please visit the [Pytho
 ### More Python Features
 
 1. **Your Own Programming Language**
+
+</details>
 
 ---
 
